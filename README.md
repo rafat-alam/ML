@@ -1,1 +1,4 @@
 A structured, hands-on collection of my AI and Machine Learning learnings, implementations, and experiments.
+
+## License
+MIT License
